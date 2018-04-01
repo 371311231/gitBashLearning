@@ -7,4 +7,6 @@ Git tracks changes of files.
 
 test github repository
 
+Creating a new branch is quick.
+
 @author weiChow		2018.4.1
