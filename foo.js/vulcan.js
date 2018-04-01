@@ -1,3 +1,3 @@
-ocument.onload = function(){
+document.onload = function(){
 	alert("vulan-feature");
 }
