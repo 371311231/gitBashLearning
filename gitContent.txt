@@ -11,4 +11,6 @@ Creating a new branch is quick and simple.
 
 git merge --no-ff -m "merge with no-ff" dev
 
+now write gitContent but needing issue 101 bug dev branch should save（alredy issue）
+
 @author weiChow		2018.4.1
